@@ -1,1 +1,2 @@
 Öğrenci Yönetim Dosyası Oluşturuldu
+HTML Dosyası Ve Verileri Girildi
