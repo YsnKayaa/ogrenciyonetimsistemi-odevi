@@ -1,2 +1,3 @@
 Öğrenci Yönetim Dosyası Oluşturuldu
 HTML Dosyası Ve Verileri Girildi
+JS Dosyası Oluşturuldu Ve Düzenleme Sağlandı
